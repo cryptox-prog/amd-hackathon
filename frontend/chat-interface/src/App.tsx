@@ -17,9 +17,14 @@ const API_URL =
   import.meta.env.VITE_API_URL
 
 const suggestions = [
-  'Summarize results.json',
-  'Find failed tasks',
-  'Draft a follow-up prompt',
+  'What is Australia’s capital?',
+  'Solve a quick inventory problem',
+  'Classify a mixed review',
+  'Summarize renewable energy blockers',
+  'Extract names and places',
+  'Fix a buggy Python function',
+  'Solve a pet logic puzzle',
+  'Write a second-largest function',
 ]
 
 function getTimestamp() {
