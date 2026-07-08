@@ -34,8 +34,8 @@ def get_response(message: str, model: str | None = None) -> str:
     client = get_client()
     response = client.chat.completions.create(
         model=model or get_model(),
-        max_tokens=1000000,
-        temperature=1.0,
+        max_tokens=10000,
+        temperature=0.0,
         messages=[
             {
                 "role": "system",
@@ -48,7 +48,7 @@ def get_response(message: str, model: str | None = None) -> str:
         ],
     )
 
-    return response.choices[0].message.content.strip()
+    return (response.choices[0].message.content or "").strip()
 
 
 def get_answers(tasks: list[dict[str, Any]], model: str | None = None) -> list[dict[str, str]]:
