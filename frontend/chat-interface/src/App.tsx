@@ -9,6 +9,13 @@ type Message = {
   timestamp: string
 }
 
+type ApiResponse = {
+  response: string
+}
+
+const API_URL =
+  import.meta.env.VITE_API_URL
+
 const suggestions = [
   'Summarize results.json',
   'Find failed tasks',
@@ -31,21 +38,49 @@ function App() {
   const canSend = draft.trim().length > 0 && !isThinking
   const hasMessages = messages.length > 0
 
-  function queueAssistantReply(userText: string) {
+  async function queueAssistantReply(userText: string) {
     setIsThinking(true)
 
-    window.setTimeout(() => {
+    try {
+      const response = await fetch(API_URL, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ message: userText }),
+      })
+
+      if (!response.ok) {
+        throw new Error(`Request failed with status ${response.status}`)
+      }
+
+      const data = (await response.json()) as ApiResponse
+
       setMessages((current) => [
         ...current,
         {
           id: Date.now(),
           author: 'assistant',
-          text: `Got it. For "${userText}", I would pull the relevant context, compare it against the task requirements, and return the smallest useful summary with next actions.`,
+          text: data.response,
           timestamp: getTimestamp(),
         },
       ])
+    } catch (error) {
+      setMessages((current) => [
+        ...current,
+        {
+          id: Date.now(),
+          author: 'assistant',
+          text:
+            error instanceof Error
+              ? `I could not reach the backend: ${error.message}`
+              : 'I could not reach the backend.',
+          timestamp: getTimestamp(),
+        },
+      ])
+    } finally {
       setIsThinking(false)
-    }, 650)
+    }
   }
 
   function sendMessage(text = draft) {
