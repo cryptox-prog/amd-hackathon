@@ -1,0 +1,4922 @@
+[
+  {
+    "prompt": "What is the capital of France?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How many planets are in our solar system?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In what year did World War II end?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Who wrote the play 'Romeo and Juliet'?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the largest mammal in the ocean?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain the process of photosynthesis.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What significant event took place in 1492?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Describe the thermodynamic laws and their implications in physics.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the primary functions of the mitochondria in cells?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Discuss the impact of the Industrial Revolution on modern society.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Which planet is known as the Red Planet?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the largest mammal in the world?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Name the longest river in the world.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What year did the Titanic sink, and how many people were estimated to have died?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Explain the process of photosynthesis in plants.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the main causes contributing to climate change?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How many elements are there in the periodic table?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Who was the first person to walk on the moon, and what year did it happen?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the chemical symbol for gold?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In which year did the Titanic sink?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain the process of photosynthesis and its importance to life on Earth.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the main differences between DNA and RNA?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "List the key factors that led to the fall of the Roman Empire.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Analyze the impact of the Industrial Revolution on modern society.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Discuss the significance of the Treaty of Versailles in shaping modern Europe.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the main ingredient in guacamole?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In what year did the first man land on the moon?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What are the primary differences between DNA and RNA?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Describe the impact of the Industrial Revolution on society.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the key components of a balanced diet?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the significance of the theory of relativity in physics?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Who wrote the play 'Hamlet'?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In what year did the Titanic sink?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the longest river in the world?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain the significance of the year 1776 in American history.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Discuss the causes and consequences of the Great Depression.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Analyze the impact of climate change on global sea levels.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What advancements in technology occurred during the Industrial Revolution?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the capital city of France?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Who wrote 'Romeo and Juliet'?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What chemical element has the symbol 'O'?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Explain the significance of the Magna Carta in legal history.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the main components of the human circulatory system?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "List three main causes of World War I.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the distance from Earth to the Moon?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Name the largest planet in our solar system.",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How many continents are there on Earth?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain the theory of relativity in a few sentences.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Discuss the impact of the Industrial Revolution on global economies.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What were the main causes of World War II?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Analyze the social and political ramifications of the internet's rise.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Detail the process of photosynthesis and its importance to life on Earth.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the largest planet in our solar system?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is a parallelogram?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What causes the seasons to change?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Explain the significance of the Battle of Gettysburg in the American Civil War.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How does photosynthesis work in plants?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the difference between mitosis and meiosis?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Discuss the implications of the theory of relativity.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What year did the Titanic sink?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the most abundant gas in the Earth's atmosphere?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How did the Cold War influence global politics in the 20th century?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What were the main causes of World War I and its impact on Europe?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Describe the structure and function of DNA in living organisms.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Describe the process of photosynthesis in plants.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Explain the significance of the Treaty of Versailles.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What were the main causes of World War I?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How does quantum entanglement affect our understanding of physics?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Define e-commerce and discuss its impact on global trade.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Which planet in our solar system is known as the Red Planet?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain the significance of the Turing test in the field of artificial intelligence.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the contributions of Isaac Newton to classical mechanics and calculus?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Discuss the main theories of the origin of the universe and their implications on modern science.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Analyze the impact of the Industrial Revolution on global economic systems.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the primary differences between prokaryotic and eukaryotic cells?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the chemical symbol for water?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Name the largest mammal in the world.",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the process by which plants make their own food called?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Describe the significance of the Battle of Gettysburg in American history.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Explain the theory of relativity proposed by Albert Einstein.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the primary causes of World War I?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Discuss the impact of the Industrial Revolution on society and economy.",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Which continent is known as the 'Dark Continent'?",
+    "category": "factual_qa",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What are the primary ingredients in traditional sushi?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the significance of the Turing Test in artificial intelligence?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How does the process of nuclear fusion differ from nuclear fission?",
+    "category": "factual_qa",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the sum of 7 and 5?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a triangle has sides measuring 3, 4, and 5, is it a right triangle?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Calculate the area of a rectangle with a length of 8 and a width of 3.",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If you roll a standard six-sided die, what is the probability of rolling a number greater than 4?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Evaluate the expression: 3x + 4 when x equals 2.",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Prove that the sum of the interior angles of a triangle is always 180 degrees.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Determine the limit of the function f(x) as x approaches 0 for f(x) = (sin x)/x.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Solve the equation: 2(x - 3) = 4(x + 1).",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Find the roots of the quadratic equation x^2 - 5x + 6 = 0.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the derivative of the function f(x) = 3x^2 + 2x - 1?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the sum of 8 and 15?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If you have 3 apples and you give away 2, how many do you have left?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Solve for x in the equation 2x + 3 = 11.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the area of a rectangle with a length of 5 and a width of 3?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a train travels at 60 miles per hour, how far will it travel in 3 hours?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Calculate the value of 7! (7 factorial).",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the difference between 100 and 27?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If the function f(x) = 2x^2 + 3x - 5, what is f(2)?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How many sides does a hexagon have?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the Pythagorean theorem and how can it be applied to find the length of the hypotenuse?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If a train travels 60 miles in 1 hour, how far will it go in 3 hours?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the value of x in the equation 2x + 3 = 11?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A rectangle has a length of 10 cm and a width of 4 cm. What is its area?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If you buy 3 apples for $2 each and 2 oranges for $3 each, how much do you spend?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the sum of the first ten prime numbers?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If the ratio of the sides of a triangle is 3:4:5 and the perimeter is 240 cm, what are the lengths of each side?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A function f(x) is defined as f(x) = 3x^2 - 2x + 1. What is f(2)?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Solve the system of equations: 2x + 3y = 6 and x - y = 2.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How many different ways can you arrange the letters in the word 'MATH'?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If a circle has a radius of 5 cm, what is its circumference?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is 7 plus 5?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a train leaves the station at 3 PM and travels at a speed of 60 miles per hour, how far will it travel in 2 hours?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the product of 6 and 4?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A rectangle has a length of 8 cm and a width of 5 cm. What is its area?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In a triangle, the first angle is 90 degrees, the second angle is 45 degrees. What is the measure of the third angle?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If five apples cost $2.50, how much would 20 apples cost?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Solve for x in the equation 3x + 5 = 20.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the square root of 16?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A car is purchased for $15,000 and depreciates by 20% each year. What will be its value after two years?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the value of 9 minus 3?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is 15 plus 27?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a rectangle has a length of 8 cm and a width of 3 cm, what is its area?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How many degrees are in a right angle?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Calculate the value of x in the equation 2x + 3 = 11.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If you flip a coin three times, what is the probability of getting exactly two heads?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the sum of the first ten positive integers?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Solve for y: 3y - 5 = 16.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If a car travels at 60 kilometers per hour for 2 hours, how far does it go?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the least common multiple of 8 and 12?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If you have seven apples and you give away three, how many do you have left?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a triangle has sides of lengths 3, 4, and 5, what is its perimeter?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the value of x if 2x + 3 = 11?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Calculate the area of a rectangle with a length of 10 and a width of 4.",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If you roll a die, what is the probability of rolling an even number?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A car travels 60 miles in 1 hour. How far will it travel in 4 hours at the same speed?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If the sum of the angles in a quadrilateral is 360 degrees, what could the measures of the angles be?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Solve for y in the equation 3y - 7 = 2y + 5.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If the ratio of boys to girls in a class is 2:3 and there are 30 students in total, how many boys are there?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Evaluate the expression 5(3 + 2) - 4^2.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If a triangle has angles of 30 degrees and 60 degrees, what is the measure of the third angle?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A car travels 120 miles in 2 hours. What is its average speed in miles per hour?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If you buy 3 apples for $1.50 each and 2 bananas for $0.75 each, what is the total cost?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A box contains 10 red balls and 15 blue balls. What fraction of the balls are red?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the least common multiple of 12 and 18?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Factor the expression x^2 + 5x + 6.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If the perimeter of a rectangle is 36 cm and the length is twice the width, what are the dimensions of the rectangle?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Evaluate the integral of x^2 from 0 to 3.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Solve for x: 2x + 5 = 15.",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the area of a circle with a radius of 7 cm?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a train travels at 60 miles per hour, how far will it go in 2 hours?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Simplify the expression: 3(x + 4) - 2(x - 1)",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Calculate the area of a rectangle with a length of 10 cm and a width of 5 cm.",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Determine the value of x in the equation: 5x - 3 = 12.",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Prove that the sum of two odd numbers is always even.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Find the roots of the quadratic equation: x^2 - 5x + 6 = 0.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If the ratio of the lengths of two sides of a triangle is 3:4 and the longer side is 12 cm, what is the length of the shorter side?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Calculate the derivative of the function f(x) = 3x^2 + 5x - 4.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Explain the concept of limits in calculus and give an example.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the next number in the sequence 2, 4, 6, 8?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a triangle has angles of 40 degrees and 60 degrees, what is the third angle?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "John has twice as many apples as Sarah. If Sarah has 3 apples, how many do they have together?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Find the least common multiple of 12 and 15.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If the perimeter of a rectangle is 30 cm and the length is 10 cm, what is the width?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Evaluate the expression: 3(x + 4) - 2(x - 1) when x = 2.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If the sum of three consecutive integers is 72, what is the smallest integer?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the area of a circle with a radius of 5 cm? Use \u03c0 \u2248 3.14.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is 5 plus 3?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a rectangle has a length of 10 and a width of 4, what is its area?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A train leaves a station traveling at 60 miles per hour. How far will it travel in 3 hours?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the value of x in the equation 2x + 5 = 15?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a triangle has sides of lengths 3, 4, and 5, is it a right triangle?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Solve for y: 2y - 3 = 4y + 5.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A car's value depreciates by 15% each year. If its initial value is $20,000, what will its value be after 2 years?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If a member of a group of 30 people is chosen at random, what is the probability that a randomly chosen person is male if there are 18 males?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If you roll a die, what is the probability of rolling a number greater than 4?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is 5 plus 7?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a train travels 60 miles in 1 hour, how far does it travel in 3 hours?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the area of a rectangle that is 4 units long and 3 units wide?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If you have 3 apples and you buy 5 more, how many apples do you have in total?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is 12 times 12?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A farmer has 150 apples. If he distributes them equally among 5 baskets, how many apples will be in each basket?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If the perimeter of a square is 64 cm, what is the length of one side?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Solve for x in the equation 3x + 9 = 24.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A triangle has two sides measuring 7 cm and 10 cm. What is the range of possible lengths for the third side?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Calculate the slope of a line that passes through the points (2, 3) and (5, 11).",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "John has 5 apples, and he buys 4 more. How many apples does he have now?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A train travels at a speed of 60 km/h. How far will it travel in 2 hours?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If x = 5, what is the value of 3x + 2?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Calculate the sum of the first ten prime numbers.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Given the equation 2x - 3 = 7, what is the value of x?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If the circumference of a circle is 31.4 cm, what is its radius? (Use \u03c0 \u2248 3.14)",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Solve the quadratic equation x^2 - 4x - 5 = 0.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A company has 3 different products, each can be made in two different colors. How many combinations of product and color can be made?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the next number in the sequence: 2, 4, 6, 8, ...?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a train departs at 3 PM and travels at 60 miles per hour, how far will it have gone by 5 PM?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Calculate the area of a triangle with a base of 10 cm and a height of 5 cm.",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If the sum of three consecutive integers is 72, what are the integers?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A store is having a sale of 25% off on all items. If an item originally costs $80, what is the sale price?",
+    "category": "math_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A right triangle has one angle measuring 30 degrees. What is the ratio of the lengths of the opposite side to the hypotenuse?",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Prove that the sum of the angles in a triangle is always 180 degrees using geometric reasoning.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Solve the equation: 5x + 3 = 2x + 12.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If you have a circular garden with a radius of 7 meters, calculate the circumference.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Determine the area of a rectangle if its length is 15 meters and its width is 10 meters.",
+    "category": "math_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I love spending time with my friends and family.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The movie was a complete waste of time and I regret watching it.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I feel hopeful about the future despite current challenges.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "She was filled with joy when she received the good news.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The taste of the dish was disappointing and left me unsatisfied.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Despite the long hours, I genuinely enjoy my job and the people I work with.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The recent events have left me feeling anxious and uncertain about the future.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "While I often find joy in small moments, there are times when the weight of sadness feels overwhelming.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "He expressed his deep love through the thoughtful gestures he made.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Even in moments of despair, I strive to find a glimmer of hope for a brighter day.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I am so happy today, everything feels perfect!",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The movie was absolutely thrilling, I couldn't take my eyes off it!",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I feel a great sense of achievement after finishing that project.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Despite the rain, I managed to have a wonderful day at the fair.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "After receiving the news, I was filled with a mix of joy and anxious anticipation.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The way she expressed her feelings left me feeling profoundly moved and reflective.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "His disappointment was palpable when he learned he didn't get the promotion.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Every time I listen to that song, it brings back a flood of bittersweet memories.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I don't know why, but today I just feel a bit sad.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "It's fascinating how love can sometimes feel so elating yet so destructive at the same time.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I feel so happy today and nothing can ruin my mood.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "These constant delays are frustrating and making me lose patience.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The movie left me feeling a profound sense of joy mixed with nostalgia.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Despite the challenges, I am optimistic about what the future holds.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "This artwork evokes a deep sadness that resonates with my current emotions.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The overwhelming sense of despair in the poem reflects a universal struggle.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Even in moments of chaos, I can find a glimmer of hope that fuels my resolve.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The bittersweet melody captures the essence of fleeting happiness.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I can't shake off this feeling of unease that lingers throughout the day.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Every morning feels brighter than before, filled with endless possibilities.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I absolutely love this product, it works perfectly!",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The movie had a profound effect on my emotions and left me feeling hopeful.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "It's disappointing that the service was so slow during my visit.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "After hearing the news, I felt a mixture of joy and sadness that was hard to explain.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "This book's themes resonate with my personal experiences and feelings.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I dread going into that store again after my last experience, it was terrible.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The heartfelt letter made me reflect on the depth of our friendship and its challenges.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "That song never fails to uplift my spirits every time I listen to it.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Witnessing the kindness of strangers during tough times can sometimes change one's outlook on life.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I found it frustrating that my feedback was ignored during the meeting.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I feel fantastic about my recent accomplishments!",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The recent news left me feeling anxious and overwhelmed.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I love spending time with my family during the holidays.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "This gloomy weather really dampens my spirits.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I am ecstatic about the job offer I received today after months of searching.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Despite my efforts, I can't shake off the feeling of disappointment after the event.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Her words of encouragement brought me immense joy and clarity in a confusing time.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "He expressed a profound sense of loss after their unexpected departure.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I appreciate the little things that make me happy each day.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Navigating through life's challenges has filled me with passion and determination.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I loved the movie! It was so engaging and heartwarming.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The service was terrible, and I felt completely ignored by the staff.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "This product exceeded my expectations, and I couldn\u2019t be happier!",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "After reading the book, I was left feeling disheartened and disappointed.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I cherish the moments we spent together; they warm my heart even now.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Despite facing numerous challenges, the team's resilience shone through brilliantly.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The way the story unfolded left me with a profound sense of nostalgia and reflection.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Even after all that has happened, I still feel an inexplicable sense of hope.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Witnessing the injustice ignited a passion within me that I never knew existed.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Sifting through his old letters, I was overwhelmed with a rush of bittersweet memories.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I feel really happy about my new job!",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The movie was disappointing and did not meet my expectations.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "After hearing the news, I felt a wave of sadness wash over me.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "She expressed overwhelming joy when she received the award she worked so hard for.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Despite the challenges, my heart swells with pride about my team\u2019s accomplishments.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "His resignation brought a mix of relief and anxiety to the workplace environment.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I\u2019m absolutely thrilled about the upcoming trip to Europe and can't wait to explore!",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "She felt a deep sense of nostalgia when she walked through her childhood neighborhood.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Waiting for the results made me feel incredibly anxious yet hopeful.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Today was a great day, full of laughter and good friends.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "This movie made me feel so happy and uplifted.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "After working hard on the project, he felt a mix of excitement and anxiety.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I absolutely love the vibrant colors in this painting.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "She expressed her frustration over the lack of communication during the event planning.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Getting a compliment made her day so much better.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Despite the challenges, he remained hopeful about the future.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I feel so relaxed when I listen to calm music.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The feedback from the audience was overwhelmingly positive, which made the team feel validated.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I am so grateful for my supportive friends.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "His words of encouragement brought me immense comfort during a tough time.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How do you feel when you receive a compliment?",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Describe a time when you felt genuinely happy. What triggered that feeling?",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What emotions do you associate with a rainy day, and why?",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain how social media impacts your feelings towards yourself and others.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are some ways to cope with feelings of anxiety or sadness?",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In your opinion, how does music influence our emotional state?",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Think about a movie that made you cry. What was the scene that impacted you the most?",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Discuss how nostalgia affects our current emotional state and behavior.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the positive and negative emotions you often experience in friendships?",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Analyze the psychological effects of loss on personal sentiment and outlook on life.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I feel really happy about my recent promotion!",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Despite the challenges, I remain optimistic about the future.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The movie was so boring, I couldn't wait for it to end.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I find solace in nature, it brings me a profound sense of peace.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Today was a fantastic day full of laughter and joy.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I can't believe how disappointed I am after such high expectations.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Valentine's Day makes me feel loved and appreciated.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The loss of a friend leaves a void that is hard to fill.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Winning the contest was such an exhilarating experience!",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The ache of nostalgia can sometimes be overwhelming, like a bittersweet melody.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I feel so happy and grateful for my friends today.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The movie we watched last night left me feeling quite disappointed and sad.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I absolutely love the weather today; it is perfect for a picnic!",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I can't believe how much I dislike the new changes at work.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "After so many trials and tribulations, I finally feel a sense of peace and accomplishment.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The ongoing conflict in the region has led to a pervasive sense of despair among the residents.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Despite the challenges faced during the project, I am filled with a sense of pride in our team's achievements.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Her kindness during tough times has always made me feel uplifted and appreciated.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I sometimes feel anxious about the future, but I'm learning to cope with it.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I am thrilled to share that we received fantastic news about our project!",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How do you feel when you hear your favorite song?",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Describe a moment that made you feel deeply sad.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What emotions do a sunrise evoke in you?",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain the feelings you experience during a family gathering.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How does a compliment from a stranger affect your mood?",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Analyze the sentiment behind a popular song's lyrics.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Discuss the varying emotional impacts of different social media platforms.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Evaluate how a national tragedy can affect public sentiment over time.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Investigate the role of sentiment analysis in brand reputation management.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Critique the effectiveness of using sentiment in political campaigns.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I love spending time with my family.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The movie was an utter disappointment and left me feeling angry.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The weather today is beautiful and makes me feel happy.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I can't believe how much the unexpected news hurt me; I felt betrayed.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I'm excited about the upcoming concert next week.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The recent developments in the project have left the team feeling demotivated and anxious.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "That puppy made my day.",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I felt overwhelmed with joy when I received the unexpected gift from a dear friend.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Breakfast is my favorite meal of the day!",
+    "category": "sentiment",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Seeing the devastation left by the storm truly saddened me.",
+    "category": "sentiment",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the key points from the article about climate change impacts.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a summary of the main themes present in the novel '1984' by George Orwell.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the findings from the recent study on the benefits of meditation.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a concise summary of the debate on renewable energy versus fossil fuels.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the plot of the short story 'The Lottery' by Shirley Jackson.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the key arguments presented in the article discussing artificial intelligence ethics.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a brief summary of the events that occurred in World War I.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the advancements in technology over the past decade.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the benefits of a balanced diet as described in the health guide.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a summary of the historical significance of the Magna Carta.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the main theme of a short story you have read recently.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a concise summary of the key points covered in a news article about climate change.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the findings of a research paper on the effects of sleep deprivation.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a brief summary of the plot of your favorite movie.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Condense the arguments presented in an editorial about the importance of education reform.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the events of a historical event you find interesting.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a summary of the key conclusions drawn from a comprehensive analysis of renewable energy sources.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize a recipe you\u2019ve recently tried, highlighting the major steps.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a succinct summary of the arguments in a debate about artificial intelligence ethics.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a short summary of a product review you found useful.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the main events of the story in one paragraph.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a concise summary of the key arguments presented in the article about climate change.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the key points made in the text?",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the findings of the research study in three sentences.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "List the main themes of the poem in a few sentences.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Give a comprehensive summary of the historical context surrounding the event.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the summary of this chapter?",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the implications of the new law enacted and its potential effects on society.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In your own words, summarize the article about diet and nutrition.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a detailed summary of the author's perspective on digital privacy.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the main idea of the article about climate change and its impact on global weather patterns.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a concise summary of the book 'To Kill a Mockingbird' and its themes on racism and injustice.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the key points of the research paper on renewable energy sources.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the main arguments presented in the debate on universal basic income.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a brief summary of the recent advancements in artificial intelligence technology.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the essential plot points and character developments in '1984' by George Orwell.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the benefits of regular exercise as outlined in a health report.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a detailed summary of the historical context and significance of the French Revolution.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the findings of a study on the effects of social media on mental health.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the intricacies of quantum mechanics as presented in a scientific journal article.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the main plot of Romeo and Juliet in a few sentences.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a brief summary of the events leading to World War II.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the key themes of climate change based on scientific reports.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the main arguments presented in the article on renewable energy sources.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In a paragraph, summarize the life of Albert Einstein.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the findings of a recent study on mental health and social media use.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the episode of your favorite TV show in two sentences.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a concise summary of the causes and effects of the Great Depression.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the basic principles of Buddhism in a few sentences.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a summary of the major breakthroughs in artificial intelligence over the last decade.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the main points of a news article about climate change.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a concise summary of Shakespeare's 'Romeo and Juliet'.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the key findings of a research paper on artificial intelligence in healthcare.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a short summary of the plot of 'The Great Gatsby'.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain the main themes of the book '1984' by George Orwell in a brief summary.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize a tutorial about how to bake a cake into a few simple steps.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a summary of the implications of global warming based on the latest scientific consensus.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Give a summary of the character development in 'To Kill a Mockingbird'.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the advantages and disadvantages of social media for teenagers.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a brief summary of the key events leading to World War II.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the main events in the story of 'Cinderella.'",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a brief summary of the key themes in Shakespeare's 'Hamlet.'",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the plot of 'The Hunger Games' in a few sentences.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Condense the arguments made in the article about climate change into a short paragraph.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Give a summary of the first chapter of 'To Kill a Mockingbird.'",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the research findings presented in the study on artificial intelligence ethics.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Briefly summarize the main points of the book '1984' by George Orwell.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a detailed summary of the arguments for and against universal healthcare found in recent debates.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the key events of World War II.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a comprehensive summary of the impact of social media on youth culture based on recent studies.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the main events of Romeo and Juliet in two sentences.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a concise summary of the key themes in George Orwell's 1984.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the main points discussed in the article about climate change?",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the findings of the latest study on artificial intelligence in healthcare.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Give a brief summary of the plot of The Great Gatsby.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Outline the arguments for and against universal basic income presented in the recent debate.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the key points of a recipe for a chocolate cake.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Condense the historical significance of the Industrial Revolution into a few sentences.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the main findings of the survey on consumer behavior post-pandemic?",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the implications of quantum computing on cybersecurity as discussed in recent papers.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the main events of the book '1984' by George Orwell.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a brief summary of the article discussing climate change impacts on sea levels.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the key points made in the recent speech on education reform delivered by the president.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In a few sentences, summarize the documentary 'The Social Dilemma'.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a concise summary of the plot twist in the movie 'The Sixth Sense'.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the methodology and findings of the recent research paper on quantum computing advancements.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a detailed summary of the debates surrounding artificial intelligence ethics and regulations.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the implications of the recent economic policy changes in two paragraphs.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Provide a comprehensive summary of the major themes explored in 'The Great Gatsby' by F. Scott Fitzgerald.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the global response to the COVID-19 pandemic across different countries and regions.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the main events of the American Revolutionary War.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a concise overview of the key themes in Shakespeare's Hamlet.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the plot of the novel 'Pride and Prejudice' in 5 sentences.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Outline the major findings of a recent scientific study on climate change.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a summary of the events that occurred during the French Revolution.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the arguments presented in a lengthy opinion piece about renewable energy.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a brief summary of a recent news article on technology advancements.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a summary of the main concepts discussed in a recent academic paper on artificial intelligence.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the character development in the story 'The Great Gatsby'.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Craft a detailed summary of the implications of global warming as discussed in a comprehensive report.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Provide a brief summary of the book 'To Kill a Mockingbird' highlighting its key themes.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the plot of 'The Great Gatsby' in three sentences.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the key findings of a scientific research paper on renewable energy sources.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Condense a TED Talk about the impact of technology on education into a short paragraph.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a summary of the major events of World War II in bullet points.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the main arguments presented in a debate about universal basic income.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize a blog post that discusses the benefits of meditation for mental health.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Condense the information from a podcast episode on healthy eating into a few sentences.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the content of a documentary on the history of the Internet.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the main points of the article on climate change impacts.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a brief summary of the research findings on mental health and social media use.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a summary of the key events in the history of the internet.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the plot of the novel '1984' by George Orwell.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Condense the main arguments of the debate on renewable energy versus fossil fuels.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the implications of the latest scientific discoveries in genetics on modern medicine.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a comprehensive summary of the United Nations' Sustainable Development Goals.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the ethical considerations surrounding artificial intelligence in healthcare.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the theories of multiple intelligences by Howard Gardner.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a concise summary of the economic impacts of the COVID-19 pandemic.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the main themes of the novel 'Pride and Prejudice'.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Give a brief summary of the causes and consequences of World War II.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the findings of a recent study on climate change impacts on polar bears.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the main points made in a podcast discussion about mental health awareness.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a summary of the arguments presented in 'The Federalist Papers'.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize what makes a hero in literature, including key characteristics.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Summarize the latest advancements in artificial intelligence and their potential impacts on society.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the core messages of Martin Luther King Jr.'s 'I Have a Dream' speech? Summarize.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Provide a comprehensive summary of the factors leading to the economic crisis of 2008.",
+    "category": "summarization",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Summarize the key events and outcomes of the American Civil War.",
+    "category": "summarization",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Identify the named entities in the sentence: 'Apple is looking to buy Nextdoor for $2.5 billion.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract all named entities from the following paragraph about Albert Einstein.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In the phrase 'Barack Obama was the 44th president of the United States', what are the named entities?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Analyze this text and list all the organizations mentioned: 'Microsoft and Google are competing in the cloud market, while IBM focuses on AI solutions.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Find the named entities in the sentence: 'The Eiffel Tower is a famous monument in Paris.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Given the text about World War II, identify all the significant historical figures mentioned.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the named entities in 'J.K. Rowling is the author of the Harry Potter series'?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "From the article on climate change, list all relevant geographical entities mentioned.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In 'Michael Jordan played for the Chicago Bulls', identify the named entities.",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract all people and organizations from this news article about the 2020 elections.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are Named Entity Recognition tasks?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Identify the named entities in the sentence: 'Apple Inc. was founded in Cupertino, California.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "List the main challenges in developing a robust NER model.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Explain how tokenization is important in the NER process.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the different types of named entities?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Discuss how language models like BERT can improve NER accuracy.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Define NER and its significance in natural language processing.",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Compare rule-based and machine learning approaches to NER.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Give an example of an application that utilizes NER.",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Analyze the impact of training data quality on NER performance.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Identify all the named entities in the following sentence: 'Barack Obama was born in Hawaii.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract organization names from this text: 'The United Nations and World Health Organization are working collaboratively.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "List the person names in the sentence: 'Elon Musk founded SpaceX, while Jeff Bezos created Blue Origin.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "From the statement, identify the dates: 'The first moon landing was on July 20, 1969.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Find and categorize the entities from the text: 'Coca-Cola, headquartered in Atlanta, launched a new campaign in 2021.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Analyze this text and identify all named entities, providing their categories: 'Dr. Jane Smith, a renowned neuroscientist, won the Nobel Prize in 2020 for her work on Alzheimer's.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Extract and classify the named entities from this complex sentence: 'Apple Inc., which was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976, is now a leading technology company.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Identify and categorize each named entity from the narrative: 'In 2021, the Biden administration addressed climate change at the COP26 summit in Glasgow.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Extract all the geographical entities from the following sentence: 'Mount Everest and the Amazon River are both famous natural landmarks.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Analyze the following paragraph and list all recognized entities, including their types: 'During the 2008 financial crisis, Lehman Brothers collapsed, significantly impacting Wall Street.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the entity type of 'Apple Inc.'?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Identify the named entities in the sentence: 'Barack Obama was the 44th President of the United States.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract all organization names from this text: 'Google and Microsoft are leading companies in technology.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "From the sentence, find the person entities: 'Shakespeare wrote many plays and sonnets.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "List the entities present in 'The Eiffel Tower is in Paris and was completed in 1889.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Analyze this text for named entities: 'In 2008, the financial crisis began in the US and affected many global markets.' What entities can you find?",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Given the sentence 'Albert Einstein was born in Germany in 1879', identify all named entities and their types.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In this article about climate change, identify the key organizations and locations mentioned. 'The UN and NASA have collaborated on environmental studies.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Analyze the following text: 'Mars is often referred to as the Red Planet due to its reddish appearance caused by iron oxide.' Identify all entities and their categories.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Evaluate the text: 'Last week, Apple launched its new MacBook Pro in San Francisco.' What entities can you detect and classify?",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Identify the named entities in this sentence: 'Apple acquires NextVR for $100 million.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In the text, 'Barack Obama was the 44th president of the United States,' find all names and locations.",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract people, organizations, and locations from this news article excerpt.",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Find the organization names mentioned in the following text: 'The World Health Organization issued a report.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Analyze the following paragraph for any named entities: 'The Pacific Ocean borders California and is home to many species of fish.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract and classify all named entities from this complex legal document excerpt.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Given this scientific paper abstract, identify and label any specific species or chemical compounds mentioned.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Review this lengthy biography and extract all people, dates, and locations mentioned using named entity recognition.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "From the long article about space exploration, categorize all organizations and celestial bodies mentioned.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Extract the biomedical entities from this research paper, including drugs, diseases, and genes.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Identify the named entities in the sentence: 'Apple Inc. announced its quarterly earnings on Monday.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In the sentence, 'Barack Obama was born in Hawaii,' which entity refers to a person?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract named entities from the text: 'The Eiffel Tower is located in Paris, France.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What named entity is represented by 'NASA' in the context of space exploration?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "From the given article, extract all organizations mentioned and classify them as named entities.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Analyze the following paragraph and identify the locations mentioned: 'The conference was held in New York and discussed developments in technology from Silicon Valley.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Given the text, 'The Bill and Melinda Gates Foundation supports global health initiatives,' categorize all entities into people and organizations.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Determine the named entities in the following sentence: 'Elon Musk founded SpaceX to revolutionize space travel.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In the statement 'Microsoft launched Windows 11 in October 2021,' identify all named entities and their types.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Identify all named entities in this passage: 'William Shakespeare's play, Hamlet, is set in Denmark during the medieval period.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Identify the named entities in the following sentence: 'Apple Inc. was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in California.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract all the named entities from the paragraph provided: 'In 1997, Bill Gates became the richest man in the world as the founder of Microsoft.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What are the named entities in this sentence: 'Barack Obama served as the 44th president of the United States from 2009 to 2017.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "From this text, identify any organizations mentioned: 'The World Health Organization has been pivotal in various health initiatives globally.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Analyze this sentence for named entities: 'Elon Musk is the CEO of Tesla and SpaceX, and he was born in Pretoria, South Africa.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Given the complex structure of this biography, extract all named entities: 'Marie Curie, born in Warsaw, was the first woman to win a Nobel Prize and is known for her research on radioactivity.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In the following passage, identify the named entities, including locations and dates: 'The Eiffel Tower, built in 1889, is located in Paris, France.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Read the following excerpt and list all persons and organizations mentioned: 'The project funded by the National Science Foundation aims to develop cutting-edge artificial intelligence technologies.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Extract the named entities from this detailed historical summary: 'In 1945, the United Nations was established in New York City to promote international cooperation.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Analyze this complex narrative for named entities: 'In the midst of World War II, Winston Churchill delivered his famous speech in London, urging perseverance against Nazi Germany.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Identify the named entities in the sentence: 'Apple is looking at buying U.K. startup for $1 billion.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract all people names from the following text: 'Barack Obama and Joe Biden were present at the event.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Find the organizations mentioned in this sentence: 'Tesla and SpaceX are both leading companies in innovation.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Analyze the following text and highlight all locations: 'The Eiffel Tower is located in Paris, France.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract all dates from this news article: 'The conference will be held on March 15, 2023, and end on March 17, 2023.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Identify and categorize the named entities in the text: 'On July 20, 1969, Neil Armstrong became the first person to walk on the moon, a feat achieved during NASA's Apollo 11 mission.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "From the following paragraph, extract all the named entities including people, organizations, and locations: 'Bill Gates founded Microsoft in Albuquerque in 1975, and he later moved to Seattle.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Extract and classify all mentions of entities in this sports news article: 'Lionel Messi scored twice as Argentina defeated France in the World Cup final on December 18, 2022.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Determine and categorize the named entities in the following detailed report: 'The United Nations was founded in 1945 to promote world peace, with countries like Canada and Japan as members.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Analyze this academic paper and extract all named entities associated with scientific research: 'Dr. Jane Goodall conducted extensive studies on chimpanzees in Gombe Stream National Park in Tanzania.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the main purpose of Named Entity Recognition?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Identify the entities in the sentence: 'Apple is looking at buying U.K. startup for $1 billion.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain the difference between supervised and unsupervised approaches in named entity recognition.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "List common types of entities recognized in NER systems.",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Describe the challenges faced in identifying entities in social media texts.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How does NER differ from traditional classification methods?",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Provide examples of Named Entity Recognition in business analytics.",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Discuss how pre-trained models are used in named entity recognition.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What tools are commonly used for NER tasks?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Elucidate the evaluation metrics for assessing the performance of NER systems.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Identify the entities in the sentence: 'Apple is looking to buy a UK startup for $1 billion.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract the named entities from: 'Barack Obama was born in Hawaii.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Find all the organizations in the following text: 'Google and Microsoft have announced a partnership.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Analyze this text for person names: 'Albert Einstein developed the theory of relativity.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Locate all the date entities in: 'The conference will be held on June 15, 2023.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract named entities from the sentence: 'In 2003, the US invaded Iraq.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Identify all named entities in: 'The Great Wall of China was built around 700 BC.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Analyze and highlight named entities in the article excerpt about 'The impact of the Internet on global communication in the 21st century.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Extract entities from this complex sentence: 'The United Nations held a summit to address climate change in Paris on December 12, 2015.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Identify and list the organizations mentioned in the passage: 'The partnership between the World Health Organization and various NGOs has led to significant improvements in public health.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is Named Entity Recognition?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain the difference between NER and part-of-speech tagging.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "List some common applications of named entity recognition.",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How do different NER models handle ambiguous entities?",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the key challenges in NER?",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are named entities?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Describe one algorithm commonly used for NER tasks.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Can you name some popular NER libraries or frameworks?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is the role of training data in building an NER system?",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How does NER affect information retrieval?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Identify named entities in the sentence: 'Apple is looking at buying U.K. startup for $1 billion.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract all the named entities from the text: 'Barack Obama was the 44th president of the United States.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Can you find any organizations in the sentence: 'The United Nations holds meetings every week.'?",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "List all person names from the following: 'Megan and John went to see a movie.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Identify the location in this sentence: 'The Eiffel Tower is in Paris.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In the text, 'Tesla launched a new model in Berlin,' categorize each named entity and provide their types.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Analyze the statement: 'NVIDIA announced a partnership with Microsoft during the conference in San Francisco.' and extract all relevant entities.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "From the paragraph, 'J.K. Rowling penned the Harry Potter series which became a worldwide phenomenon,' identify the named entities and explain their significance.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Given the text, 'The Great Wall of China attracts millions of tourists every year,' extract the named entities and classify them into locations and organizations.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Evaluate the sentence: 'Elon Musk recently tweeted about his plans for Mars exploration.' For named entity recognition, identify and classify the entities.",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Identify the named entities in the following sentence: 'Apple Inc. is looking to buy a startup in New York.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract all person names from the text: 'Albert Einstein and Marie Curie made significant contributions to science.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Find the organizations mentioned in this paragraph: 'Microsoft and Google are competing to dominate the cloud services market.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In the sentence, identify the locations: 'The meeting is scheduled in Paris and Tokyo next month.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Extract all named entities from this news article snippet: 'The President of France, Emmanuel Macron, visited Berlin to talk about climate change.'",
+    "category": "ner",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Analyze the following text and list all the products named: 'The latest iPhone and Samsung Galaxy models were released this week.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "From the given narrative, pinpoint the significant historical figures: 'In the year 1776, Thomas Jefferson wrote the Declaration of Independence while George Washington led the Continental Army.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Identify all persons and dates from this complex sentence: 'In 2020, Angela Merkel met with Donald Trump to discuss trade during the G7 summit.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Extract all geographical locations from this lengthy description: 'Mount Everest is located in the Himalayas, which run through Nepal and Tibet.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Analyze this excerpt and extract all relevant organizations: 'Amazon, Facebook, and Apple have been at the forefront of technological innovation in recent years.'",
+    "category": "ner",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The application crashes whenever I click the save button. What could be the cause?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I'm getting an 'undefined variable' error, but I'm sure I've declared it. What should I check?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "My code executes, but the output is not as expected. How can I step through to find the issue?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I changed a configuration file, and now the application does not start. What are the steps to identify the issue?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "There's an intermittent failure in the test suite that makes it hard to isolate the problem. How can I approach this?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "My API return code is 500, but the server logs don't show any errors. What are my next debugging steps?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I just updated a library, and now the system behaves inconsistently. How do I debug this issue effectively?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I'm dealing with a memory leak, but I'm not sure where to start checking for it. What tools can assist me?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The output from my script is empty, but I see it is being called correctly. What debugging steps should I take?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I'm getting a stack overflow error, but I can't see why. What debugging techniques should I use?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What does the error message mean when it says 'undefined is not a function'?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Describe the steps to debug a slow-performing website.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How can you use console.log to debug JavaScript code?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "List techniques for debugging a memory leak in a Java application.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What tools can be used for debugging front-end applications?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain how to use breakpoints effectively when debugging in an IDE.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How do you identify and fix a null reference error in your code?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What is step-through debugging and when would you use it?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are common mistakes to avoid while debugging?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Describe a method for tracing a problem in a multi-threaded application.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Why does my function return null when I expect it to return a value?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain the steps you would take to identify a memory leak in a Java application.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is a stack trace and how can it help in debugging?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Describe how you would use logging to troubleshoot an intermittent bug.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Why might an infinite loop occur in a loop structure?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Discuss the concept of breakpoints and how they can assist in debugging complex applications.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How can you track down a NullPointerException in a large codebase?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What tools would you use to debug a web application?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What are common reasons for script errors in a web development environment?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain how unit tests can reduce the time spent on debugging.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Why does my code throw a null pointer exception?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I am getting an infinite loop in my while statement that checks an array's length. How can I fix this?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What steps can I take to troubleshoot a segmentation fault error?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "My function returns an unexpected value after edge cases. How do I identify the issue?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I'm receiving a TypeError when adding two variables. How can I identify the data types?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How can I use breakpoints effectively to debug my application in the IDE?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the most common reason for a runtime error in a programming environment?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Can you explain how to read and analyze a stack trace for debugging?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "My program runs slower after I added a feature. How do I find performance bottlenecks?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How do I check for unhandled exceptions in my code?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What common errors can cause a Python program to crash?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain how to use a debugger to step through Java code.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Describe how to identify and fix syntax errors in JavaScript.",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How would you approach debugging a memory leak in a C++ application?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "List steps to troubleshoot a null pointer exception in C#.",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What tools can help you debug SQL queries effectively?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What does the term 'stack trace' mean in debugging?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How can you use logging effectively to identify bugs in your application?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is a breakpoint, and how do you set one in an IDE?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Discuss the importance of unit testing in the debugging process.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The application crashes after a user submits a form. What steps would you take to debug this issue?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The code runs without errors, but the output is not as expected. List potential reasons for this behavior.",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A specific test case fails intermittently. How would you approach debugging this flaky test?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "You notice memory leaks in your application. What tools or techniques would you use to identify the source of the leaks?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "After deploying a new feature, users report that they cannot log in. Describe how you would begin debugging this problem.",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A segmentation fault occurs in your C++ application. What debugging tools would you use to trace the cause?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "You receive a stack trace from a production error report. How would you analyze it to find the root cause?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "During testing, you find that a function returns `null` unexpectedly. Outline your debugging process.",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "The API response time is slower than expected. Discuss debugging steps to identify bottlenecks in the code.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The web page fails to load in certain browsers. What initial steps would you take to debug the compatibility issues?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How do I find a missing semicolon in my code?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain the process of using a debugger tool in an IDE.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What steps should I take when my program doesn\u2019t compile?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Describe how to isolate a bug in a large codebase.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "My variable isn't updating as expected. What could be wrong?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Can you outline some advanced techniques for memory leak detection?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How can I use console logs effectively for debugging?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What are the common pitfalls when debugging multi-threaded applications?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Why is it important to understand error messages when debugging?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What tools can be integrated for automated debugging processes?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the first step in debugging a program that crashes on startup?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain how to use breakpoints effectively while debugging a complex application.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What tools can you use to debug a web application?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Describe a method to identify memory leaks in a software application.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Why is it important to check the console for errors during debugging?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How can you systematically approach debugging a function that has inconsistent outputs?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "List common debugging practices that can help reduce the number of bugs during development.",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Discuss the advantages of unit testing in the context of debugging.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are some signs that a program needs debugging?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How can version control systems aid in the debugging process?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Why isn't my variable updating after a function call?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I'm getting a null pointer exception, how can I trace it back to its source?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How do I check for off-by-one errors in my loops?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Can you describe the process of using a debugger step-by-step?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What should I do if my code runs but doesn't produce expected results?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How can I identify the root cause of a memory leak in my application?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Where can I find syntax errors in my code quickly?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain how to use logging to troubleshoot issues in production code.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What tools can I use to assist in debugging my JavaScript application?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What are the common pitfalls to avoid when debugging multi-threaded applications?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "I encountered an error message that says 'undefined is not a function'. What should I check first?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "My application crashes upon startup. Where should I start looking for the problem?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "After changing a variable name, I still see the old value on my output. What could be the issue?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I am experiencing inconsistent behavior in my application. What systematic approach can I take to identify the root cause?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How can I use console logs effectively to trace a bug in my software?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I received a segmentation fault in my C program. What steps can I follow to debug this issue?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are some common issues to look for when a webpage fails to load?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "I\u2019ve added error handling, but I\u2019m still not catching a specific exception. What debugging techniques can help me resolve this?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "My code compiles without errors, but my function does not return the expected results. What should I check?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Develop a step-by-step plan for debugging a performance issue in a large-scale web application.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A variable is returning an unexpected value. What steps would you take to debug it?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "You have a function that is supposed to calculate the factorial of a number but is returning zero. What could be the problem?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Explain how you can use breakpoints in an IDE for debugging purposes.",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A server is down, and users are complaining. Outline your debugging process to identify the root cause.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the meaning of a 'null pointer exception' and how would you troubleshoot it?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "You encounter an infinite loop in a program. Describe the debugging technique you would use to resolve this.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What tools can you use for debugging a web application?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Detail the steps taken to debug a memory leak in an application.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "You see inconsistent results in your test suite. What debugging strategies would you employ?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A user reports a bug that only occurs under specific conditions. How do you gather information to debug it?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What is the first step you should take when encountering a segmentation fault?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How do you use print statements to track variable values during execution?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain the purpose of a stack trace when diagnosing errors.",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What strategies can you apply to debug a memory leak in C++?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Describe how you would utilize a debugger tool to step through code.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "List common causes of infinite loops in code.",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain how using assertions can help in the debugging process.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are the best practices for logging errors in a production environment?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Why is it important to reproduce the bug before debugging it?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Describe the significance of understanding the codebase when debugging complex issues.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Why does my code keep throwing a null pointer exception?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "How can I identify memory leaks in my application?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "My loop is not terminating, what could be the issue?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Explain how to use a debugger to step through code execution.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "What are some common syntax errors I should look for?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Describe the process of using log statements effectively for debugging.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "My function is returning an unexpected result, where should I start looking?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "What tools can help in diagnosing performance issues in a web application?",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "How do I handle exceptions properly in my code?",
+    "category": "debugging",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Discuss the importance of unit tests in reducing debugging time.",
+    "category": "debugging",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "All cats are mammals. Some mammals are not dogs. Therefore, some cats are not dogs.",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a car is red, then it is fast. My car is not fast. Therefore, my car is not red.",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A pencil is to writing as a brush is to painting. Which of the following is the correct analogy?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Every rectangle is a quadrilateral. A square is a rectangle. Therefore, a square is a quadrilateral.",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If today is Monday, then tomorrow is Tuesday. Today is not Monday. Therefore, tomorrow is not Tuesday.",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A farmer has chickens and cows. If he has more cows than chickens and he has 5 cows, how many chickens can he have?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all flowers are plants, and some plants are trees, can we conclude that some flowers are trees?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In a day, there are 24 hours. If you sleep for 8 hours and work for 8 hours, how many hours do you have left?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Two friends are at a movie. One had popcorn and the other had soda. If they both enjoy watching movies, what does that indicate?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all actors are performers, and some performers are musicians, what can we deduce about actors and musicians?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all cats are animals, and some animals are not dogs, can we conclude that some cats are not dogs?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A family has two parents and three children. Each child has at least one sibling. What is the minimum number of children in this family?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If today is Monday, what day will it be in three days?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "All birds have feathers. Penguins are birds. Therefore, penguins have feathers. Which type of reasoning is this?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If two trains leave different cities traveling toward each other at the same speed, how can we determine when they will meet?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A farmer has a fox, a chicken, and a bag of grain. He must cross a river but can only take one item at a time. If he leaves the fox alone with the chicken, the fox will eat the chicken. If he leaves the chicken alone with the grain, the chicken will eat the grain. How can the farmer get all three items across the river?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In a certain town, half of the residents are men and half are women. If there are 100 residents, how many women are there?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If a premise is true and a conclusion follows logically from it, can the conclusion be false? Why or why not?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "You have two ropes that take exactly one hour to burn, but they burn at inconsistent rates. How can you measure 45 minutes using the ropes?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all squares are rectangles, and some rectangles are not blue, can we conclude that some squares are not blue?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If all cats are animals and some animals are dogs, can we conclude that some cats are dogs?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Three friends, Alice, Ben, and Clara, are sitting in a row. Alice is not sitting next to Clara. Ben is sitting at one of the ends. Who is sitting in the middle?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a train leaves the station travelling at 60 mph and another train leaves the same station 30 minutes later travelling at 90 mph, can the second train catch the first train? If yes, how far will each have traveled when they meet?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A dog is older than a cat which is older than a hamster. Which animal is the youngest?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In a certain code language, if 'CAT' is coded as '3120', and 'DOG' is coded as '4157', how would you encode 'FISH'?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If some pencils are blue and some blue things are long, can we conclude that some pencils are long?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Five people are sitting in a circle. John is opposite to Lisa, and Sam is sitting immediately to the right of John. Where is Lisa sitting?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "All roses are flowers. Some flowers are red. Therefore, some roses are red. Is this statement valid?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "You have a basket with 10 apples, and you take away 4. How many do you have?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If every student in a class of 25 students attended at least one extracurricular activity and there are three clubs, with 10 in Club A, 15 in Club B, and 5 in both Club A and B, what is the minimum number of students in Club C if every student is in at least one club?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all cats are animals and some animals are pets, are all cats pets?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A man is looking at a picture of someone. His friend asks him, 'Who is it you are looking at?' He replies, 'Brothers and sisters, I have none. But that man's father is my father's son.' Who is in the picture?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "There are four cards: a red card, a blue card, a yellow card, and a green card. If the red card is on the table, what can you infer about the other cards?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If two statements are true, and one statement contradicts the other, what can you conclude about the false statement?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In a class, there are 20 students. If 12 like math, 15 like science, and 5 like both, how many students like neither subject?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Assuming all humans are mortal and Socrates is a human, what can we logically conclude about Socrates?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If a person buys a fruit basket containing apples, oranges, and bananas, which of the following must be true: there are apples in the basket?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "You have a bag of marbles: 3 red, 2 blue, and 5 green. If you draw three marbles at random, what are the probabilities of drawing one of each color?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If I own a car and all cars have wheels, does it mean I own wheels?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Given that a triangle has angles that add up to 180 degrees, if one angle is 90 degrees, what can be said about the other two angles?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A researcher states that if the hypothesis is true, then the experimental results will show a significant effect. The results showed no significant effect. What can be concluded about the hypothesis?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "All cats are mammals. Some mammals are not dogs. Are some cats definitely not dogs?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In a certain language, if 'A' means 'yes' and 'B' means 'no', and you hear 'A B A', what does it imply?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If it rains, the ground gets wet. The ground is not wet. Can we conclude that it did not rain?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Consider a situation where every time it snows, the streets are empty. The streets are full. Can we conclude that it is not snowing?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If a train leaves the station at noon and travels at 60 miles per hour, when will it reach a station 120 miles away?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Five people are seated in a row. If A is to the left of B and C is to the right of D, where is E in relation to the others?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all humans are mortal and Socrates is a human, what can we conclude about Socrates?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A certain algorithm gives a correct output only if the input is valid. If the output is incorrect, what can we conclude about the input?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "All cats are animals. Some animals are brown. Therefore, some cats are brown. Is this conclusion valid?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a car travels 60 miles in one hour, how far will it travel in three hours at the same speed?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If it rains, the ground gets wet. The ground is not wet. Therefore, it did not rain. What kind of reasoning is this?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A farmer has 10 apples. He gives away 3 apples and then buys 5 more. How many apples does he have now?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "All squares are rectangles. Some rectangles are not blue. Can we conclude that some squares are not blue?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Given that all mammals are warm-blooded and that whales are mammals, can we conclude that whales are warm-blooded?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Assume that every logical argument has a valid conclusion. If a certain argument fails, can we say that the premises were at fault? Analyze this reasoning.",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A certain logic puzzle states that if either A or B is true, then C must be false. If A is true and C is also true, what can we deduce about B?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If P implies Q, and Q implies R, does P also imply R? Explain the logical relationships here.",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Consider the statement: \"If the sun shines, then I will go outside.\" If I choose to stay inside, what can we infer about the sun's shining?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all cats are mammals and some mammals are not dogs, can we conclude that some cats are not dogs?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A farmer has 10 cows and 5 chickens. If the cows produce 20 liters of milk each per day, how many liters of milk does he get in total per day?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "All squares are rectangles but not all rectangles are squares. If a shape is a square, what can we infer about its properties?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a train leaves a station traveling at 60 miles per hour and another train leaves at the same time traveling at 75 miles per hour, how far apart will they be after 2 hours?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In a group of friends, if Tom is taller than Jerry and Jerry is taller than Sam, who is the shortest?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A certain encrypted message can be decoded in multiple ways. If a message reads 'HELLO', which methods would ensure that it retains its meaning regardless of decoding?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all birds lay eggs and some eagles are birds, does it logically follow that some eagles lay eggs?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Given two statements: All men are mortal. Socrates is a man. What conclusion can be logically drawn from these statements?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In a game where players have different abilities, if Player A can always beat Player B, and Player B can always beat Player C, can we infer that Player A can beat Player C?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If there are a total of 50 apples and a person takes half of them, how many apples remain?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all roses are flowers and some flowers fade quickly, can it be concluded that some roses fade quickly?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "There are five houses in a row, each painted a different color. If the red house is to the left of the green house, and the green house is to the left of the blue house, what can you say about the red house's position?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If A is taller than B and B is taller than C, who is the shortest?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A farmer has cows and chickens. If he has 20 animals and the total number of legs is 56, how many cows does he have?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If a train leaves station A traveling at 60 mph and another train leaves station B traveling at 90 mph, at what speed must a third train travel to reach the meeting point at the same time as the first two?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In a family, there are two parents and three children. If one child just started high school, does it imply that all the children are of high school age?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "All humans are mortal. Socrates is a human. Therefore, Socrates is mortal. Identify the form of reasoning used in this argument.",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If it is raining, then the ground is wet. It is raining. What can be inferred about the ground?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If 3x + 2 = 14, what is the value of x?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If some mammals lay eggs, and all platypuses are mammals, can it be concluded that some platypuses lay eggs?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If all cats are mammals and some mammals are not dogs, are there cats that are not dogs?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A farmer has cows and chickens. If he has 30 animals in total, and twice as many cows as chickens, how many cows does he have?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If it rains today, then the ground will be wet. It is not raining today. Is the ground wet?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "All roses are flowers. Some flowers are not red. Can it be concluded that some roses are not red?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A clock shows 3:00. If it takes 15 minutes to complete a task and you start the task immediately, what time will it be when you finish?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In a puzzle, A is taller than B, and C is shorter than A but taller than B. Who is the tallest among the three?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Given that all birds can fly and that penguins are birds, does it logically follow that penguins can fly?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If a car travels 60 miles in an hour, how long will it take to travel 240 miles?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "There are three boxes: one contains apples, one contains oranges, and one contains both. All boxes are labeled incorrectly. How can you determine the contents of each box by picking one fruit from one box?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If you were to solve a logical equation involving three variables where variable A is equivalent to variable B plus variable C, how would you express variable B?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all roses are flowers, and some flowers fade, can we conclude that some roses fade?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A farmer has sheep and chickens. If he counts a total of 20 legs, how many of each animal could he have?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a train leaves the station at 5 PM traveling at 60 mph, and another train leaves the same station at 6 PM traveling at 90 mph, when will the second train catch up?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In a certain code language, if 'CAT' is coded as '3120', what will be the code for 'DOG'?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If it rains, the ground gets wet. The ground is wet. Therefore, it rained. Is this conclusion logically valid?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Five friends are sitting in a row. L is not next to M. M is next to O, but not next to L. Who is sitting next to P?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "All squares are rectangles. All rectangles are shapes. Therefore, all squares are shapes. Is this statement logically valid?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A chessboard has 64 squares. If you place a piece on each square, what is the minimum number of moves needed to capture all opponents' pieces?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If some pets are dogs and some dogs are friendly, can we say some pets are friendly?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "You have ten socks in a drawer: four blue, three red, and three green. How many socks must you take out to ensure you have at least one pair of the same color?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all cats are animals and some animals are dogs, can we say that some cats are dogs?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If statements A and B are both true, but statement C is false, what can be inferred about the truth of statement D if it depends on A, B, and C?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "All humans breathe air. John is a human. Does John breathe air?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If it is raining, then the ground is wet. The ground is wet. Can we definitively say it is raining?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Three friends, Alex, Maria, and David, are either telling the truth or lying. Alex says Maria is lying, Maria says David is lying, and David says Alex is lying. How many of them are lying?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "There are five apples. If you take away three, how many do you have?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Every time I water my plants, they grow faster. My plants have been watered. Can we conclude that they are growing faster?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A rectangle has a length and a width. If the length is 10 and the width is 5, what is the area of the rectangle?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Following the rules of implication, if statement X implies statement Y and statement Y is false, what can we infer about statement X?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If A is true and B is false, what can be deduced about A or B?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If all cats are mammals and some mammals are not dogs, what can we conclude about cats and dogs?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A farmer has 10 sheep. All but 2 die. How many sheep are left?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If some A are B and all B are C, are all A necessarily C?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In a group of friends, if Sarah is taller than Matt and Matt is taller than Lisa, who is the shortest?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If there are 5 apples and you take away 3, how many apples do you have?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If a train leaves at 3 PM and travels at 60 mph for 2 hours, how far has it traveled by 5 PM?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all roses are flowers and some flowers fade quickly, can we say some roses fade quickly?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "There are three doors: one leads to gold, one leads to a lion, and one leads to nothing. What strategy could you use to find the door to the gold?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If it rains, the ground gets wet. The ground is wet. Did it rain?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A box contains 50 balls: 20 red, 15 blue, and 15 green. What is the probability of picking a blue ball?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "If all cats are mammals and some mammals are dogs, can we conclude some cats are dogs?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "A farmer has cows and chickens. If there are more cows than chickens and the total is 30, how many cows could there be?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "If it rains, the ground gets wet. The ground is wet. Can we conclude it rained?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "You see a pile of fruits containing apples and oranges. If there are 4 more oranges than apples and a total of 60 fruits, how many oranges are there?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Every rectangle has four sides. This figure has four sides. Is this figure definitely a rectangle?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "In a family of five, there are three children and their ages are consecutive integers. If the youngest child is 6, what is the age of the oldest child?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "A puzzle states that if a green car is parked next to a red one, the blue car must be on the opposite side. If you see the blue car, can you determine the positions of the other two cars?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "In a box, there are 10 blue balls and 10 red balls. If you remove one ball at random, what is the probability it will be blue?",
+    "category": "logical_reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Assume a number is divisible by 2 if and only if it is even. If a number is even, is it always divisible by 2?",
+    "category": "logical_reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a Python function to calculate the factorial of a number.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate a JavaScript program that checks if a given string is a palindrome.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a C++ class that represents a complex number and includes methods for addition and multiplication.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a simple HTML page with a CSS style that changes the background color on button click.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Design a SQL query that finds the second highest salary from an Employee table.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Develop a function in Ruby that reverses an array without using built-in functions.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a bash script that backs up a directory to a specified location.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Implement a Python decorator that logs execution time of a function.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a Java method that determines if a number is prime.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Construct an algorithm in Java that sorts a list of integers using merge sort.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a function in Python that takes two numbers and returns their sum.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate a JavaScript code snippet that validates an email address using a regex pattern.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a simple HTML form to submit a user's name and email.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a C++ class that represents a Rectangle with methods for calculating area and perimeter.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Develop a function in Ruby that checks if a given string is a palindrome.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Implement a RESTful API in Node.js that allows users to create, read, update, and delete tasks.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a simple SQL query to select all columns from a table named 'users'.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate a Python script that connects to a MySQL database and retrieves data from a specific table.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a CSS stylesheet to style a webpage with a header, footer, and main content area.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write an algorithm in Java that sorts an array of integers using the QuickSort method.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Generate a Python function to calculate the factorial of a number.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a JavaScript function that checks if a string is a palindrome.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a simple HTML form that takes user input for name and email.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate a SQL query to find all employees whose salary is greater than 50000.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a C# method that returns the nth Fibonacci number using recursion.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a Ruby script to parse a JSON file and output the keys and values.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a function in Go that performs a binary search on a sorted array.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Generate a Kotlin function to reverse a linked list.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a Python script that connects to a database and retrieves user data.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write an SQL command that joins two tables: customers and orders.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Generate a Python function that returns the factorial of a number.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a simple HTML form that accepts a user's name and email address.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a SQL query to find the average salary of employees in the 'Engineering' department.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate an XML document with a root element named 'Products' containing three 'Product' elements.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Develop a Python script that reads a CSV file and displays the first five rows.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a C++ program that implements a binary search algorithm on a sorted array.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a RESTful API in Node.js that allows users to create and retrieve todo items.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Design a machine learning model using TensorFlow that can classify handwritten digits.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Construct a Ruby on Rails application that manages users and their posts with authentication.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a Python function that returns the square of a number.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate a JavaScript function that filters an array of numbers to only include even values.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a SQL query to retrieve the names of all employees in the Sales department from the Employees table.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a function in Java that checks if a string is a palindrome.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Develop a C++ program that finds the factorial of a given number using recursion.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a PHP script that sends an email with an attachment using the PHPMailer library.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Implement an API endpoint in Node.js that allows the creation of a new user and validates the input data.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a Ruby method that merges two sorted arrays into a single sorted array without using built-in functions.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Generate a Bash script that backs up a directory by compressing its contents into a tar.gz file.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a simple HTML page that includes a form with text input and a submit button.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a function in Python that calculates the factorial of a number.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate a JavaScript snippet to fetch data from a public API and display it on the web page.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a basic HTML form with fields for name and email.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a Python class that implements a stack data structure with methods for push, pop, and peek.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Generate a simple CSS style that changes the background color to blue.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a Ruby method that takes an array of numbers and returns the average.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a Java program that prints 'Hello World' to the console.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Build a React component that fetches and displays user profiles from a mock API.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a SQL statement to retrieve all records from a 'Customers' table.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Develop a Python script that automates the process of sending an email with an attachment using SMTP.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a Python function that calculates the factorial of a number.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a simple HTML page with a header, a paragraph, and a footer.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate a JavaScript function to reverse a string.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a SQL query to retrieve all unique entries from the 'users' table.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Build a REST API endpoint in Node.js that handles GET requests for user data.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a Python script that scrapes data from a website and stores it in a CSV file.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Implement a sorting algorithm in C++ and explain its time complexity.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a function in Ruby that checks if a number is prime.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Develop a simple class in Java that represents a bank account.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate code to implement a basic login system using PHP and MySQL.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Generate a simple HTML page with a header, a paragraph, and an image.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a Java method that checks if a string is a palindrome.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a SQL query to select all users from a 'users' table where the age is greater than 30.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Implement a function in JavaScript that returns the Fibonacci sequence for the first n numbers.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a Python script that scrapes product prices from a given e-commerce website using Beautiful Soup.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a Java program to implement a binary search algorithm on a sorted array.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Develop a RESTful API in Node.js that allows users to create, read, update, and delete blog posts.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Construct a regular expression in Python that validates email addresses.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a C++ function that merges two sorted arrays into one sorted array.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a Python function that reverses a string.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate a JavaScript function that fetches data from a public API and logs it to the console.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a basic HTML file with a heading and a paragraph.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a SQL query to find all users who have signed up in the last month.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Generate a simple CSS rule that makes all paragraphs bold.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a Python script that counts the number of words in a text file.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a function in Ruby that checks if a number is even or odd.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Develop a Java program that reads user input and displays it in reverse order.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Generate an XML template for a contact list with fields for name and email.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a C++ function that sorts an array using the quicksort algorithm.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a JavaScript program that fetches data from an API and displays it on a web page.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Generate a simple HTML template for a personal webpage.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a SQL query to find the top 10 most expensive products from the products table.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Develop a basic calculator in C++ that can perform addition, subtraction, multiplication, and division.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Implement a machine learning model using TensorFlow to classify images.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a Python script that reads a text file and counts the number of words.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a Ruby script to scrape product prices from an e-commerce website.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Build a simple to-do list application using React.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a function in Java that reverses a string.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a Python function to reverse a string.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a JavaScript function that returns the factorial of a number.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate a simple HTML structure with a header, footer, and main content area.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a function in Python that checks if a number is prime.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Build a REST API using Flask that allows CRUD operations on a user database.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Implement a function in Java that sorts an array using the Merge Sort algorithm.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a SQL query to find the second highest salary from an Employee table.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a React component that fetches and displays a list of users from a REST API.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Design a simple user authentication system in Node.js.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a C++ program to read and write to a text file.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a Python function that checks if a number is even or odd.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a simple HTML webpage with a form that collects a user's name and email.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate a JavaScript function that reverses a given string.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a recursive function in C++ to calculate the factorial of a number.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Design a RESTful API in Node.js to manage a to-do list application.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Compose a SQL query to find the top 5 most expensive products in a database.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a basic CSS stylesheet to style a navigation bar.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate a Python script that fetches data from an external API and saves it as JSON.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a simple Java program that prints 'Hello, World!' to the console.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Implement a Dijkstra algorithm in Python to find the shortest path in a graph.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a Python function that calculates the sum of a list of numbers.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Generate a Java class that represents a Book with attributes title, author, and ISBN.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a simple HTML structure with a header, footer, and a main section.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a JavaScript function that filters out all even numbers from an array.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Create a RESTful API endpoint in Express that retrieves user data from a database.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Generate a Python script that scrapes data from a website and saves it to a CSV file.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Write a C++ program that implements a linked list with basic operations (add, remove, display).",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Create a TypeScript interface for a User with properties id, name, and email.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "Generate an SQL query that selects all records from a table called 'products' where price is greater than 100.",
+    "category": "code_generation",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Write a Ruby method that reverses a string without using built-in functions.",
+    "category": "code_generation",
+    "difficulty": "hard"
+  }
+]
