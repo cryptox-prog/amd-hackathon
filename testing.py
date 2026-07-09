@@ -4,8 +4,8 @@ import sys
 
 from main import get_answers
 
-INPUT_PATH = "./input/tasks.json" # remove the . for docker test run???
-OUTPUT_DIR = "./output"
+INPUT_PATH = "/input/tasks.json" # remove the . for docker test run???
+OUTPUT_DIR = "/output"
 OUTPUT_PATH = OUTPUT_DIR + "/results.json"
 
 def get_tasks():
