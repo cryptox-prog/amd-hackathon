@@ -5,3 +5,4 @@ transformers
 accelerate
 tokenizers
 safetensors
+scikit-learn
