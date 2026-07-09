@@ -4,8 +4,11 @@ from dataclasses import dataclass
 Category = str
 Difficulty = str
 
-DEFAULT_MODEL = "accounts/fireworks/models/minimax-m3"
-CODE_MODEL = "accounts/fireworks/models/kimi-k2p7-code"
+MINIMAX = "accounts/fireworks/models/minimax-m3"
+KIMI = "accounts/fireworks/models/kimi-k2p7-code"
+GEMMA_26 = "accounts/fireworks/models/gemma-4-26b-a4b-it"
+GEMMA_31 = "accounts/fireworks/models/gemma-4-31b-it"
+GEMMA_31_NVFP4 = "accounts/fireworks/models/gemma-4-31b-it-nvfp4"
 
 
 @dataclass(frozen=True)
@@ -34,7 +37,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "easy": PromptProfile(
             category="factual_qa",
             difficulty="easy",
-            model=DEFAULT_MODEL,
+            model=MINIMAX,
             system_prompt=(
                 "Answer factual questions directly. Use only well-established facts. "
                 "If the question has multiple parts, answer each part in order."
@@ -44,7 +47,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "hard": PromptProfile(
             category="factual_qa",
             difficulty="hard",
-            model=DEFAULT_MODEL,
+            model=MINIMAX,
             system_prompt=(
                 "Answer factual questions carefully and verify relationships between "
                 "entities before responding. Avoid speculation."
@@ -56,7 +59,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "easy": PromptProfile(
             category="math_reasoning",
             difficulty="easy",
-            model=DEFAULT_MODEL,
+            model=MINIMAX,
             system_prompt=(
                 "Solve arithmetic and word problems exactly. Track quantities and "
                 "operations carefully before giving the final result."
@@ -66,7 +69,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "hard": PromptProfile(
             category="math_reasoning",
             difficulty="hard",
-            model=DEFAULT_MODEL,
+            model=MINIMAX,
             system_prompt=(
                 "Solve multi-step reasoning problems exactly. Identify assumptions, "
                 "perform calculations step by step internally, and check the final value."
@@ -78,7 +81,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "easy": PromptProfile(
             category="sentiment",
             difficulty="easy",
-            model=DEFAULT_MODEL,
+            model=MINIMAX,
             system_prompt=(
                 "Classify the sentiment of the provided text. Consider mixed evidence "
                 "when positive and negative statements both appear."
@@ -88,7 +91,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "hard": PromptProfile(
             category="sentiment",
             difficulty="hard",
-            model=DEFAULT_MODEL,
+            model=MINIMAX,
             system_prompt=(
                 "Classify nuanced sentiment. Separate factual statements from opinions "
                 "and account for contrastive wording."
@@ -100,7 +103,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "easy": PromptProfile(
             category="summarization",
             difficulty="easy",
-            model=DEFAULT_MODEL,
+            model=MINIMAX,
             system_prompt=(
                 "Summarize the source text faithfully. Preserve the central cause, "
                 "constraint, or conclusion without adding outside information."
@@ -110,7 +113,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "hard": PromptProfile(
             category="summarization",
             difficulty="hard",
-            model=DEFAULT_MODEL,
+            model=MINIMAX,
             system_prompt=(
                 "Compress dense technical text while preserving the main bottleneck, "
                 "response, and constraints. Do not introduce unsupported claims."
@@ -122,7 +125,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "easy": PromptProfile(
             category="ner",
             difficulty="easy",
-            model=DEFAULT_MODEL,
+            model=MINIMAX,
             system_prompt=(
                 "Extract named entities from the text and assign clear entity types. "
                 "Do not include generic nouns or unnamed references."
@@ -132,7 +135,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "hard": PromptProfile(
             category="ner",
             difficulty="hard",
-            model=DEFAULT_MODEL,
+            model=MINIMAX,
             system_prompt=(
                 "Extract named entities with precise types. Include people, "
                 "organizations, locations, dates, products, and events when present."
@@ -144,7 +147,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "easy": PromptProfile(
             category="debugging",
             difficulty="easy",
-            model=CODE_MODEL,
+            model=KIMI,
             system_prompt=(
                 "Find the bug in the provided code and provide the minimal corrected "
                 "version. Prefer simple, idiomatic Python."
@@ -154,7 +157,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "hard": PromptProfile(
             category="debugging",
             difficulty="hard",
-            model=CODE_MODEL,
+            model=KIMI,
             system_prompt=(
                 "Diagnose code defects precisely. Consider edge cases, empty inputs, "
                 "type assumptions, and expected behavior before proposing a fix."
@@ -166,7 +169,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "easy": PromptProfile(
             category="logical_reasoning",
             difficulty="easy",
-            model=DEFAULT_MODEL,
+            model=MINIMAX,
             system_prompt=(
                 "Solve logic puzzles by applying each constraint exactly. Eliminate "
                 "impossible assignments before answering."
@@ -176,7 +179,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "hard": PromptProfile(
             category="logical_reasoning",
             difficulty="hard",
-            model=DEFAULT_MODEL,
+            model=MINIMAX,
             system_prompt=(
                 "Solve constraint reasoning tasks carefully. Track all entities, "
                 "attributes, and exclusions before producing the final answer."
@@ -188,7 +191,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "easy": PromptProfile(
             category="code_generation",
             difficulty="easy",
-            model=CODE_MODEL,
+            model=KIMI,
             system_prompt=(
                 "Write correct, simple Python code for the requested behavior. Include "
                 "edge-case handling when the prompt asks for it."
@@ -198,7 +201,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "hard": PromptProfile(
             category="code_generation",
             difficulty="hard",
-            model=CODE_MODEL,
+            model=KIMI,
             system_prompt=(
                 "Write robust Python code with clear handling of edge cases, duplicates, "
                 "invalid inputs, and expected return values."

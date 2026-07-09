@@ -4,23 +4,10 @@ from typing import Any
 from dotenv import load_dotenv
 from openai import OpenAI
 
+from router.infer_router import classify
+from prompt_profiles import get_prompt_profile
+
 load_dotenv()
-
-DEFAULT_MODEL = "accounts/fireworks/models/minimax-m3"
-SYSTEM_PROMPT = (
-    "You are a precise assistant. "
-    "Answer accurately and concisely. "
-    "Return only the requested answer. "
-    "Use as few tokens as possible."
-)
-
-
-def get_model() -> str:
-    allowed_models = os.getenv("ALLOWED_MODELS", "")
-    if allowed_models.strip():
-        return allowed_models.split(",")[0].strip()
-    return DEFAULT_MODEL
-
 
 def get_client() -> OpenAI:
     return OpenAI(
@@ -30,35 +17,42 @@ def get_client() -> OpenAI:
     )
 
 
-def get_response(message: str, model: str | None = None) -> str:
+def get_response(message: str) -> str:
     client = get_client()
+
+    # -------------------------
+    # Route the prompt
+    # -------------------------
+    route = classify(message)
+
+    category = route["category"]
+    difficulty = route["difficulty"]
+
+    # -------------------------
+    # Select model + prompts
+    # -------------------------
+    profile = get_prompt_profile(category, difficulty)
+
     response = client.chat.completions.create(
-        model=model or get_model(),
-        max_tokens=10000,
+        model=profile.model,
         temperature=0.0,
-        messages=[
-            {
-                "role": "system",
-                "content": SYSTEM_PROMPT,
-            },
-            {
-                "role": "user",
-                "content": message,
-            },
-        ],
+        max_tokens=10000,
+        messages=profile.messages_for(message),
     )
 
     return (response.choices[0].message.content or "").strip()
 
 
-def get_answers(tasks: list[dict[str, Any]], model: str | None = None) -> list[dict[str, str]]:
+def get_answers(tasks: list[dict[str, Any]]) -> list[dict[str, str]]:
     results = []
 
     for task in tasks:
+        answer = get_response(task["prompt"])
+
         results.append(
             {
                 "task_id": task["task_id"],
-                "answer": get_response(task["prompt"], model=model),
+                "answer": answer,
             }
         )
 
