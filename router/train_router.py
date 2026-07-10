@@ -38,29 +38,43 @@ class TrainingConfig:
     model_name: str = "distilbert-base-uncased"
     data_path: Path = Path("data/synthetic_dataset.json")
     output_dir: Path = Path("checkpoints/router")
-    epochs: int = 5
+    epochs: int = 10
     batch_size: int = 16
     learning_rate: float = 2e-5
     max_length: int = 256
     seed: int = 42
     test_size: float = 0.2
-    num_labels: int = 8
+    num_labels: int = 16
 
 
 # Defined fixed mapping for categories
-CATEGORIES: List[str] = [
-    "factual_qa",
-    "math_reasoning",
-    "sentiment",
-    "summarization",
-    "ner",
-    "debugging",
-    "logical_reasoning",
-    "code_generation",
-]
+CLASSES = [
+    "factual_qa_easy",
+    "factual_qa_hard",
 
-LABEL2ID: Dict[str, int] = {cat: idx for idx, cat in enumerate(CATEGORIES)}
-ID2LABEL: Dict[int, str] = {idx: cat for idx, cat in enumerate(CATEGORIES)}
+    "math_reasoning_easy",
+    "math_reasoning_hard",
+
+    "sentiment_easy",
+    "sentiment_hard",
+
+    "summarization_easy",
+    "summarization_hard",
+
+    "ner_easy",
+    "ner_hard",
+
+    "debugging_easy",
+    "debugging_hard",
+
+    "logical_reasoning_easy",
+    "logical_reasoning_hard",
+
+    "code_generation_easy",
+    "code_generation_hard",
+]
+LABEL2ID = {label: idx for idx, label in enumerate(CLASSES)}
+ID2LABEL = {idx: label for idx, label in enumerate(CLASSES)}
 
 
 def set_seed(seed: int) -> None:
@@ -101,10 +115,13 @@ def load_dataset(data_path: Path) -> Tuple[List[str], List[int]]:
     for item in raw_data:
         prompt = item.get("prompt")
         category = item.get("category")
+        difficulty = item.get("difficulty")
 
-        if prompt and category in LABEL2ID:
+        label = f"{category}_{difficulty}"
+
+        if prompt and label in LABEL2ID:
             texts.append(prompt)
-            labels.append(LABEL2ID[category])
+            labels.append(LABEL2ID[label])
 
     logger.info(f"Successfully processed {len(texts)} valid samples from source.")
     return texts, labels
@@ -246,7 +263,10 @@ def main() -> None:
 
     # Initialize Architecture
     model = DistilBertForSequenceClassification.from_pretrained(
-        config.model_name, num_labels=config.num_labels
+    config.model_name,
+    num_labels=config.num_labels,
+    id2label=ID2LABEL,
+    label2id=LABEL2ID,
     )
     model.to(device)
 
@@ -272,6 +292,10 @@ def main() -> None:
                 tokenizer.save_pretrained(config.output_dir)
                 print(f"✓ Saved new best model (Val Acc = {best_acc:.4f})")
 
+    model = DistilBertForSequenceClassification.from_pretrained(
+    config.output_dir
+    )
+    model.to(device)
     # Final Evaluation for Global Metrics
     _, _, final_labels, final_preds = evaluate(model, val_loader, criterion, device)
 
@@ -288,7 +312,7 @@ def main() -> None:
     print(f"Macro F1 Score  : {f1:.4f}\n")
 
     print("Classification Report:")
-    print(classification_report(final_labels, final_preds, target_names=CATEGORIES))
+    print(classification_report(final_labels, final_preds, target_names=CLASSES))
 
     print("Confusion Matrix:")
     print(confusion_matrix(final_labels, final_preds))

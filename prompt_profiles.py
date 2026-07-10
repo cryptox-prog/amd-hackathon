@@ -59,7 +59,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "easy": PromptProfile(
             category="math_reasoning",
             difficulty="easy",
-            model=MINIMAX,
+            model=GEMMA_31_NVFP4,
             system_prompt=(
                 "Solve arithmetic and word problems exactly. Track quantities and "
                 "operations carefully before giving the final result."
@@ -69,7 +69,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "hard": PromptProfile(
             category="math_reasoning",
             difficulty="hard",
-            model=MINIMAX,
+            model=GEMMA_31_NVFP4,
             system_prompt=(
                 "Solve multi-step reasoning problems exactly. Identify assumptions, "
                 "perform calculations step by step internally, and check the final value."
@@ -125,7 +125,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "easy": PromptProfile(
             category="ner",
             difficulty="easy",
-            model=MINIMAX,
+            model=GEMMA_31_NVFP4,
             system_prompt=(
                 "Extract named entities from the text and assign clear entity types. "
                 "Do not include generic nouns or unnamed references."
@@ -135,7 +135,7 @@ PROMPT_PROFILES: dict[Category, dict[Difficulty, PromptProfile]] = {
         "hard": PromptProfile(
             category="ner",
             difficulty="hard",
-            model=MINIMAX,
+            model=GEMMA_31_NVFP4,
             system_prompt=(
                 "Extract named entities with precise types. Include people, "
                 "organizations, locations, dates, products, and events when present."

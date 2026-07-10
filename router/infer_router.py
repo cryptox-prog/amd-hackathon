@@ -1,20 +1,14 @@
 #!/usr/bin/env python3
 
-import json
 from pathlib import Path
 
 import torch
 from transformers import (
-    DistilBertTokenizerFast,
     DistilBertForSequenceClassification,
+    DistilBertTokenizerFast,
 )
 
 CHECKPOINT = Path("checkpoints/router")
-
-with open(CHECKPOINT / "label_map.json") as f:
-    label_map = json.load(f)
-
-ID2LABEL = {int(k): v for k, v in label_map["id2label"].items()}
 
 
 def get_device():
@@ -27,6 +21,7 @@ def get_device():
 
 device = get_device()
 
+# Load tokenizer and model
 tokenizer = DistilBertTokenizerFast.from_pretrained(CHECKPOINT)
 
 model = DistilBertForSequenceClassification.from_pretrained(CHECKPOINT)
@@ -48,14 +43,16 @@ def classify(prompt: str):
         outputs = model(**encoding)
 
     probs = torch.softmax(outputs.logits, dim=1)
-
     confidence, prediction = torch.max(probs, dim=1)
 
-    category = ID2LABEL[prediction.item()]
+    predicted_label = model.config.id2label[prediction.item()]
+
+    # Split "math_reasoning_hard" -> ("math_reasoning", "hard")
+    category, difficulty = predicted_label.rsplit("_", 1)
 
     return {
         "category": category,
-        "difficulty": "hard",      # TODO: Replace with difficulty classifier
+        "difficulty": difficulty,
         "confidence": round(confidence.item(), 4),
     }
 
@@ -72,6 +69,6 @@ if __name__ == "__main__":
 
         print("\nPrediction")
         print("--------------------")
-        print("Category   :", result["category"])
-        print("Difficulty :", result["difficulty"])
-        print("Confidence :", result["confidence"])
+        print(f"Category   : {result['category']}")
+        print(f"Difficulty : {result['difficulty']}")
+        print(f"Confidence : {result['confidence']:.4f}")
